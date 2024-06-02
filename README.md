@@ -2,7 +2,7 @@
   <h1>Outsmarting Time:</h1>
   <h1>Foundation Models for Zero-Shot Forecasting</h1>
 </div>
-
+## Overview
 
 This repository contains the code, data, and resources used in our thesis, which explores the application of transformer-based models in time series forecasting. Specifically, we benchmark the performance of three models—Chronos, TimeGPT, and Moirai—within the M3-Competition.
 
